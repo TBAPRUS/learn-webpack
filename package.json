@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "3",
+    "webpack-cli": "3"
+  },
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  }
+}
